@@ -6,6 +6,6 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://github.com/eogbeide424/My-portfolio-challange2)
+[Visit the Deployed Site](https://eogbeide424.github.io/My-portfolio-challange2/)
 
 On this particular project the aim create a functional and reponsive site from scratch.
